@@ -1,0 +1,22 @@
+{
+  "name": "ninetwelve",
+  "version": "1.0.0",
+  "description": "smiling face",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BVJin/ninetwelve.git"
+  },
+  "author": "bv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BVJin/ninetwelve/issues"
+  },
+  "homepage": "https://github.com/BVJin/ninetwelve#readme",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
+}

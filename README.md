@@ -27,7 +27,7 @@ module.exports = config;
 
 ###Setting Up Babel-Loader
 ####```npm i babel-loader babel-preset-es2015 babel-preset-react -S```
-####`touch .babelrc`
+`touch .babelrc`
 ```
 {
   "presets" : ["es2015", "react"]

@@ -3,7 +3,7 @@
 ##Getting started
 
 ###Install webpack
-#### `npm i webpack -S`
+`npm i webpack -S`
 
 ###Update config file
 ####
@@ -26,7 +26,7 @@ module.exports = config;
 ```
 
 ###Setting Up Babel-Loader
-####```npm i babel-loader babel-preset-es2015 babel-preset-react -S```
+`npm i babel-loader babel-preset-es2015 babel-preset-react -S`
 `touch .babelrc`
 ```
 {
@@ -53,10 +53,10 @@ var config = {
 ```
 
 ###Install React.js
-####```npm i react react-dom -S```
+`npm i react react-dom -S`
 
 
 ###Watch changes
-####`./node_modules/.bin/webpack -d`
+`./node_modules/.bin/webpack -d`
 
 #### ^O^

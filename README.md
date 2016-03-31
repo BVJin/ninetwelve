@@ -53,7 +53,7 @@ var config = {
 ```
 
 ###Install React.js
-####`npm i react react-dom -S`
+####```npm i react react-dom -S```
 
 
 ###Watch changes
